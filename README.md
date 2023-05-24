@@ -13,10 +13,10 @@
 
 <h3>📫 My Github Stats</h3>
 <h1>
-  <img alt="philipheferreira github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=jhersonharyson&show_icons=true" />
+  <img alt="philipheferreira github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=philipheferreira&show_icons=true" />
   <img alt="philipheferreira github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipheferreira&layout=compact" />
   <!--
-  <img alt="jhersonharyson's github stats" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipheferreira&hide_progress=false" />
+  <img alt="philipheferreira github stats" width="45%" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipheferreira&hide_progress=false" />
   
   
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
