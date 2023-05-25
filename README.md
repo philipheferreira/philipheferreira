@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, meu nome é Philiphe Siqueira Ferreira</h1>
 <h3 align="center">Apaixonado por aprender e a resolver problemas</h3>
 
-● Formado em Engenharia da computação;
-●  Estou trabalhando como **Analista de teste/Desenvolvedor front-end**;
-● As principais ferramentas que utilizo no trabalho, no dia a dia, são Vue, Vuex, Quasar.
+● Formado em Engenharia da computação;<br/>
+●  Estou trabalhando como **Analista de teste/Desenvolvedor front-end**;<br/>
+● As principais ferramentas que utilizo no trabalho, no dia a dia, são Vue, Vuex, Quasar.<br/>
 
 <h3> Um pouco sobre mim </h3>
 ● A experiencia de atuação como analista de teste me fez ficar mais atento aos pequenos detalhes e a criar o habito e ter prazer ao tentar entender o codigo dos outros;<br/>
