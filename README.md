@@ -31,6 +31,8 @@
 
 <h3>📫 My Github Stats</h3>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipheferreira&" alt="philipheferreira" /></p>
+
 <h1>
   <img alt="philipheferreira github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api?username=philipheferreira&show_icons=true" />
   <img alt="philipheferreira github stats" width="45%" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=philipheferreira&layout=compact" />
@@ -43,5 +45,4 @@
   <div height="150"></div>
 </h1>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=philipheferreira&" alt="philipheferreira" /></p>
 
