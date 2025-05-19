@@ -14,10 +14,13 @@
 
 <h3> Um pouco sobre mim </h3>
 ● A experiencia de atuação como analista de teste me fez ficar mais atento aos pequenos detalhes e a criar o habito e ter prazer ao tentar entender o codigo dos outros;<br/>
+
 ● Gosto de estudar sistemas embarcados durante as folgas;<br/>
+
 ● Sempre gosto de aprender sobre as outras areas quando possivel.<br/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipheferreira&label=Profile%20views&color=0e75b6&style=flat" alt="philipheferreira" /> </p>
+
+<!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=philipheferreira&label=Profile%20views&color=0e75b6&style=flat" alt="philipheferreira" /> </p>-->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
