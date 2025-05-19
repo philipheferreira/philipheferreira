@@ -1,9 +1,16 @@
 <h1 align="center">Oi 👋, meu nome é Philiphe Siqueira Ferreira</h1>
 <h3 align="center">Apaixonado por aprender e a resolver problemas</h3>
 
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipheferreira" alt="philipheferreira" /></a> 
+</p>
+
 ● Formado em Engenharia da computação;<br/>
+
 ● Estou trabalhando como **Analista de teste/Desenvolvedor front-end**;<br/>
+
 ● As principais ferramentas que utilizo no trabalho, no dia a dia, são Vue, Vuex, Quasar.<br/>
+
 
 <h3> Um pouco sobre mim </h3>
 ● A experiencia de atuação como analista de teste me fez ficar mais atento aos pequenos detalhes e a criar o habito e ter prazer ao tentar entender o codigo dos outros;<br/>
@@ -11,8 +18,6 @@
 ● Sempre gosto de aprender sobre as outras areas quando possivel.<br/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=philipheferreira&label=Profile%20views&color=0e75b6&style=flat" alt="philipheferreira" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=philipheferreira" alt="philipheferreira" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
